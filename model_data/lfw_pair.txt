@@ -1,0 +1,601 @@
+10 30
+Carly_Fiorina	2	1
+Carlos_Moya	7	8
+Edmund_Hillary	2	1
+Al_Sharpton	7	1
+Doris_Schroeder	3	4
+Enrique_Bolanos	4	3
+Ellen_DeGeneres	1	2
+Carlos_Vives	4	2
+Eduard_Shevardnadze	4	2
+Bashar_Assad	4	1
+Donald_Fehr	2	1
+Ali_Khamenei	3	1
+Emmanuelle_Beart	2	1
+Edward_Lu	3	2
+Edward_Said	1	2
+Carlos_Ortega	1	3
+Doris_Schroeder	2	4
+Bridgette_Wilson-Sampras	1	3
+Edward_Kennedy	2	3
+Alastair_Campbell	2	1
+Eduardo_Duhalde	8	3
+Emanuel_Ginobili	2	4
+Carlos_Ortega	3	2
+Erik_Morales	1	3
+Carlos_Vives	2	1
+Elizabeth_Dole	3	2
+Alex_Sink	2	1
+Edward_Lu	1	2
+Alimzhan_Tokhtakhounov	1	2
+Alan_Greenspan	4	5
+Christina_Aguilera	1	Edwin_Edwards	1
+David_Heymann	2	Enrique_Bolanos	4
+Emma_Watson	1	Eric_Clapton	1
+Alberto_Fujimori	2	Donald_Fehr	1
+Carlos_Moya	0	Abdullah_Gul	8
+Carlo_Ancelotti	3	David_Beckham	9
+Carlos_Manuel_Pruneda	1	Donald_Pettit	1
+Edward_Kennedy	1	Al_Sharpton	7
+Carmen_Electra	4	Alexander_Downer	2
+Carlos_Menem	1	Alec_Baldwin	1
+Elizabeth_Hurley	5	Eddie_Sutton	1
+Eliane_Karp	3	Donald_Pettit	1
+Aicha_El_Ouafi	1	Emmanuelle_Beart	3
+Eliane_Karp	4	Don_Siegelman	1
+Ed_Smart	2	Abid_Hamid_Mahmud_Al-Tikriti	2
+Abdel_Nasser_Assidi	1	Bridget_Fonda	1
+Erika_Harold	3	Ahmed_Chalabi	2
+Bruce_Springsteen	4	Emanuel_Ginobili	1
+Erik_Morales	2	Adel_Al-Jubeir	2
+Bashar_Assad	2	Ahmed_Chalabi	3
+David_Anderson	2	Edward_Said	1
+David_Caruso	2	Carla_Del_Ponte	5
+Alex_Barros	1	Albert_Costa	3
+Erik_Morales	3	Emanuel_Ginobili	3
+Erika_Harold	2	Abid_Hamid_Mahmud_Al-Tikriti	2
+Carly_Fiorina	1	Abel_Pacheco	3
+Christina_Aguilera	3	Donald_Fehr	2
+Elvis_Presley	1	Abid_Hamid_Mahmud_Al-Tikriti	2
+Ed_Smart	1	Alimzhan_Tokhtakhounov	2
+Aicha_El_Ouafi	3	Eric_Clapton	2
+David_Anderson	3	4
+Eduardo_Duhalde	1	8
+Enrique_Bolanos	1	5
+Aicha_El_Ouafi	1	2
+Britney_Spears	9	0
+Elsa_Zylberstein	6	3
+Bruce_Springsteen	2	3
+Albert_Costa	5	6
+David_Caruso	1	2
+Donald_Rumsfeld	3	0
+Don_Siegelman	1	2
+Alexander_Losyukov	3	2
+Al_Gore	5	4
+Donatella_Versace	3	2
+Alec_Baldwin	2	4
+Al_Gore	3	5
+Carolina_Kluft	1	2
+Elton_John	2	1
+Edmund_Stoiber	0	1
+Alejandro_Avila	3	2
+Abid_Hamid_Mahmud_Al-Tikriti	1	3
+Ben_Affleck	5	3
+David_Beckham	2	3
+Ali_Naimi	4	8
+Alec_Baldwin	3	1
+Ed_Rosenthal	2	1
+Emanuel_Ginobili	3	2
+Alejandro_Avila	2	3
+Elijah_Wood	3	1
+Abdullah	3	4
+David_Caruso	2	Donald_Pettit	3
+Ellen_DeGeneres	2	Alejandro_Avila	3
+Ed_Rosenthal	1	Alastair_Campbell	3
+Ed_Rosenthal	1	Ahmed_Chalabi	4
+Elvis_Presley	2	Doris_Schroeder	1
+Carlos_Menem	1	Bridget_Fonda	1
+Elizabeth_Dole	3	Alex_Sink	1
+Al_Sharpton	7	Alex_Sink	3
+Eduardo_Duhalde	0	Alexander_Losyukov	2
+Edwina_Currie	3	Carlos_Ortega	1
+Christine_Baumgartner	2	Doug_Melvin	1
+Carmen_Electra	1	Abdullah	1
+Abdullah_al-Attiyah	1	Eduardo_Duhalde	9
+Alexandra_Stevenson	1	Eduard_Shevardnadze	5
+Ali_Naimi	2	Abdullah	2
+Carolina_Kluft	2	Emanuel_Ginobili	1
+Elijah_Wood	2	Abdoulaye_Wade	1
+Alan_Greenspan	3	Donald_Pettit	3
+Carlos_Menem	1	Don_Siegelman	4
+Emma_Thompson	1	Eduard_Shevardnadze	2
+Carolina_Kluft	3	Elizabeth_Smart	1
+Donatella_Versace	2	Alastair_Campbell	3
+Eileen_Coparropa	2	Doug_Melvin	1
+Aleksander_Kwasniewski	3	Alec_Baldwin	3
+Doris_Roberts	3	Albert_Costa	5
+Carly_Fiorina	1	Elsa_Zylberstein	1
+Adolfo_Aguilar_Zinser	1	Ali_Khamenei	1
+Aicha_El_Ouafi	2	Al_Sharpton	6
+Carlos_Manuel_Pruneda	2	Carlos_Vives	1
+Carolina_Kluft	3	Eduard_Shevardnadze	4
+Donald_Fehr	1	2
+Christine_Baumgartner	2	1
+Elsa_Zylberstein	4	1
+Alex_Sink	1	3
+Elizabeth_Hurley	1	4
+Eileen_Coparropa	3	1
+Carmen_Electra	1	3
+Erika_Harold	2	4
+Emma_Watson	4	5
+Carmen_Electra	4	3
+Alberto_Fujimori	2	1
+Abdullah	4	3
+Erik_Morales	1	2
+Carlos_Vives	3	4
+Alexandra_Stevenson	2	3
+Albert_Costa	3	4
+Edward_Lu	1	4
+Carlos_Ruiz	3	2
+Alejandro_Avila	2	1
+Carlos_Moya	1	0
+Alberto_Fujimori	1	2
+Christine_Baumgartner	4	5
+Alejandro_Toledo	2	9
+Donald_Rumsfeld	9	6
+Al_Gore	6	2
+Erik_Morales	3	2
+Carla_Del_Ponte	5	2
+Elena_Bovina	3	2
+Doris_Roberts	3	2
+Carlos_Ortega	1	2
+Bashar_Assad	1	Donald_Fehr	3
+Doris_Roberts	2	Edmund_Hillary	1
+Bashar_Assad	2	Britney_Spears	8
+Doris_Roberts	2	Emanuel_Ginobili	3
+Alberto_Fujimori	1	Carla_Del_Ponte	4
+Al_Gore	6	Donald_Fehr	2
+Carlo_Ancelotti	2	Carlos_Vives	4
+Alberto_Fujimori	2	Elizabeth_Smart	4
+Aleksander_Kwasniewski	3	Emmanuelle_Beart	3
+Abdel_Nasser_Assidi	2	Doug_Melvin	2
+Ben_Affleck	6	Emanuel_Ginobili	1
+Edward_Lu	6	Ahmed_Chalabi	2
+Erik_Morales	1	Edmund_Stoiber	2
+Carly_Fiorina	1	Enrique_Bolanos	4
+David_Beckham	8	Emmanuelle_Beart	2
+Ed_Rosenthal	1	Edward_Said	2
+Carlos_Moya	9	Ai_Sugiyama	2
+Emma_Thompson	2	Edmund_Hillary	2
+Carolina_Kluft	1	Bruce_Springsteen	1
+Carlo_Ancelotti	3	Doug_Melvin	2
+Bashar_Assad	1	Don_Siegelman	3
+David_Beckham	1	Don_Siegelman	1
+Eddie_Sutton	2	Edmund_Hillary	1
+Ed_Rosenthal	1	Al_Pacino	2
+Abel_Pacheco	2	Eduard_Shevardnadze	1
+Doris_Roberts	3	Bridgette_Wilson-Sampras	3
+Alex_Barros	2	Alexander_Downer	4
+Christine_Baumgartner	5	David_Beckham	2
+Carlos_Moya	2	Adrien_Brody	1
+Christine_Baumgartner	4	Alejandro_Avila	1
+Adrien_Brody	2	6
+David_Beckham	8	0
+Carolina_Kluft	2	3
+Alejandro_Toledo	1	8
+Elena_Bovina	2	3
+Ed_Smart	3	2
+Alexander_Downer	3	4
+Ahmed_Chalabi	3	1
+Al_Sharpton	5	2
+Bashar_Assad	2	1
+Britney_Spears	0	4
+Abdullah_Gul	2	0
+Emmanuelle_Beart	3	2
+Alastair_Campbell	3	5
+David_Anderson	5	2
+Eduardo_Duhalde	7	8
+Abdel_Nasser_Assidi	2	1
+Eric_Robert_Rudolph	2	1
+Bridgette_Wilson-Sampras	2	1
+Edmund_Stoiber	5	2
+Abdoulaye_Wade	4	2
+Carlos_Menem	1	7
+Alejandro_Toledo	4	7
+Emma_Watson	2	5
+Donald_Fehr	3	1
+Carlo_Ancelotti	2	1
+Ben_Affleck	3	4
+Emanuel_Ginobili	5	4
+Ai_Sugiyama	5	3
+Eliane_Karp	3	4
+Abdullah_al-Attiyah	1	Eddie_Sutton	2
+Eric_Clapton	1	Doug_Melvin	3
+Eric_Robert_Rudolph	1	Doris_Schroeder	2
+Eric_Robert_Rudolph	2	Edmund_Hillary	1
+Donatella_Versace	3	Albert_Costa	5
+Carlos_Manuel_Pruneda	3	Elton_John	7
+Carlos_Manuel_Pruneda	2	Eric_Clapton	1
+David_Beckham	2	Alex_Sink	3
+Eric_Clapton	2	Edwin_Edwards	2
+Christine_Baumgartner	5	Elton_John	2
+Carlos_Manuel_Pruneda	3	Doug_Melvin	3
+Aleksander_Kwasniewski	2	Alastair_Campbell	3
+Erika_Harold	4	Donald_Fehr	3
+Abel_Pacheco	1	Doris_Schroeder	4
+Al_Gore	8	Britney_Spears	4
+Alexandra_Stevenson	1	Alexander_Losyukov	4
+Carlo_Ancelotti	1	Akbar_Hashemi_Rafsanjani	1
+Edward_Kennedy	3	Carlos_Ruiz	2
+Carolina_Kluft	2	Eduardo_Duhalde	4
+Christine_Baumgartner	5	Alec_Baldwin	2
+Eric_Robert_Rudolph	2	Edward_Said	1
+Christian_Longo	3	Abid_Hamid_Mahmud_Al-Tikriti	1
+Aicha_El_Ouafi	2	Elton_John	7
+Ben_Affleck	3	Ali_Khamenei	1
+Abdullah_al-Attiyah	2	Abel_Pacheco	1
+Akhmed_Zakayev	1	Ali_Khamenei	2
+Carlos_Menem	7	Abdullah	3
+David_Anderson	3	Edmund_Hillary	3
+Alec_Baldwin	2	Donald_Pettit	1
+Emma_Watson	1	Akbar_Hashemi_Rafsanjani	3
+Britney_Spears	3	4
+Alexander_Losyukov	1	3
+Donald_Pettit	1	3
+Doris_Schroeder	1	3
+Alimzhan_Tokhtakhounov	2	1
+Carla_Del_Ponte	2	4
+Ben_Affleck	1	2
+David_Anderson	4	1
+Doug_Melvin	1	3
+Elsa_Zylberstein	3	6
+Akbar_Hashemi_Rafsanjani	1	3
+Doug_Melvin	2	3
+Bashar_Assad	1	4
+Carlos_Menem	4	1
+Doug_Melvin	2	1
+Aleksander_Kwasniewski	3	1
+Carlos_Menem	9	3
+Carla_Del_Ponte	5	3
+Emma_Thompson	3	1
+Elizabeth_Hurley	3	5
+Donatella_Versace	1	3
+Donald_Rumsfeld	5	5
+Christina_Aguilera	4	3
+Al_Pacino	2	3
+Alex_Barros	1	2
+Doris_Roberts	1	2
+Aleksander_Kwasniewski	3	4
+Abdoulaye_Wade	4	1
+Akbar_Hashemi_Rafsanjani	2	3
+Ali_Khamenei	2	1
+Emma_Watson	3	Carlos_Ruiz	2
+David_Caruso	1	Abdullah_Gul	8
+Ed_Smart	3	Bridget_Fonda	2
+Edward_Lu	3	Doris_Schroeder	4
+Doris_Roberts	2	Carla_Del_Ponte	2
+Alex_Barros	2	Dave_Campo	1
+Emma_Watson	1	Don_Siegelman	4
+Erika_Harold	3	Abdullah_Gul	7
+Elizabeth_Hurley	4	Ben_Affleck	2
+Ed_Rosenthal	2	Bridget_Fonda	1
+David_Heymann	2	Al_Pacino	1
+Carlos_Menem	2	Dave_Campo	2
+Abdel_Nasser_Assidi	1	Carla_Del_Ponte	1
+Al_Gore	3	Adrien_Brody	2
+Eliane_Karp	1	David_Beckham	7
+Ellen_DeGeneres	1	Alexander_Downer	4
+Edwina_Currie	1	Edwina_Currie	1
+Aleksander_Kwasniewski	4	Elena_Bovina	3
+Edward_Lu	4	Bridgette_Wilson-Sampras	1
+Carly_Fiorina	2	David_Anderson	2
+Abel_Pacheco	2	Bridgette_Wilson-Sampras	2
+Alberto_Fujimori	2	Abdullah_Gul	7
+Edward_Kennedy	2	Abdoulaye_Wade	2
+Alex_Barros	2	Alan_Greenspan	5
+Carlos_Manuel_Pruneda	1	Akbar_Hashemi_Rafsanjani	2
+Christian_Longo	1	Bridgette_Wilson-Sampras	1
+Carlo_Ancelotti	3	Elton_John	6
+Elvis_Presley	2	Britney_Spears	2
+Bashar_Assad	1	Abdullah_Gul	1
+Carlos_Menem	5	Alastair_Campbell	2
+Donald_Rumsfeld	5	1
+Ali_Naimi	3	7
+Emma_Watson	4	3
+Elvis_Presley	2	1
+Dave_Campo	3	2
+Eduardo_Duhalde	3	2
+Abel_Pacheco	1	4
+Erik_Morales	3	1
+Eliane_Karp	1	3
+Bruce_Springsteen	3	1
+Bridgette_Wilson-Sampras	2	3
+Carlos_Menem	8	5
+Edmund_Stoiber	6	3
+Al_Pacino	1	2
+Elizabeth_Hurley	3	4
+Don_Siegelman	3	4
+Alejandro_Toledo	5	9
+Eduard_Shevardnadze	3	5
+Abdoulaye_Wade	2	1
+Adolfo_Aguilar_Zinser	1	2
+Alexander_Downer	4	2
+Al_Gore	4	1
+Emma_Watson	1	4
+Christine_Baumgartner	1	5
+Elizabeth_Hurley	1	2
+Alex_Barros	2	1
+Adel_Al-Jubeir	1	3
+Abdullah_al-Attiyah	3	2
+Albert_Costa	2	6
+Alastair_Campbell	2	4
+Eric_Clapton	2	Alan_Greenspan	1
+David_Caruso	3	Doug_Melvin	1
+Ellen_DeGeneres	1	Carla_Del_Ponte	1
+Donatella_Versace	2	Abid_Hamid_Mahmud_Al-Tikriti	3
+Edward_Kennedy	1	Doug_Melvin	1
+Aicha_El_Ouafi	2	Alan_Greenspan	1
+Eric_Robert_Rudolph	2	Al_Pacino	1
+Ed_Smart	2	Carla_Del_Ponte	4
+Edward_Kennedy	2	Don_Siegelman	2
+Edward_Lu	6	Dave_Campo	2
+David_Anderson	2	Ai_Sugiyama	1
+Eric_Robert_Rudolph	3	Alejandro_Toledo	1
+Carmen_Electra	1	Eduard_Shevardnadze	2
+Carlos_Menem	8	Carla_Del_Ponte	4
+Eliane_Karp	1	Elijah_Wood	2
+Adolfo_Aguilar_Zinser	2	Emanuel_Ginobili	4
+Alberto_Fujimori	1	Edmund_Hillary	1
+Carlos_Manuel_Pruneda	1	Alastair_Campbell	2
+Carlo_Ancelotti	1	Carlo_Ancelotti	1
+Carmen_Electra	5	Abid_Hamid_Mahmud_Al-Tikriti	3
+Carlos_Menem	0	Alexander_Downer	4
+Elizabeth_Hurley	4	Eric_Robert_Rudolph	2
+Ed_Smart	3	Bridgette_Wilson-Sampras	2
+Emma_Thompson	3	Ali_Khamenei	2
+David_Heymann	5	Carlos_Ortega	2
+Ed_Smart	1	Doris_Schroeder	2
+Abdel_Nasser_Assidi	2	Carlos_Vives	4
+Edward_Kennedy	2	Bridget_Fonda	2
+Alan_Greenspan	2	Carlos_Vives	4
+Carlos_Menem	3	Abid_Hamid_Mahmud_Al-Tikriti	1
+Alexandra_Stevenson	1	3
+Aicha_El_Ouafi	3	2
+Eddie_Sutton	2	1
+Alan_Greenspan	4	1
+Eric_Robert_Rudolph	2	3
+Adrien_Brody	1	8
+Donald_Pettit	3	2
+Bridget_Fonda	1	3
+Doris_Schroeder	4	2
+Eric_Robert_Rudolph	3	2
+Elizabeth_Hurley	3	1
+Alastair_Campbell	3	1
+Abdullah_Gul	9	2
+Alastair_Campbell	1	3
+Eduard_Shevardnadze	4	1
+Dave_Campo	1	2
+Erika_Harold	1	2
+Ali_Khamenei	2	3
+Donald_Pettit	3	1
+Elizabeth_Dole	4	2
+Adolfo_Aguilar_Zinser	3	1
+Eduardo_Duhalde	1	7
+Ai_Sugiyama	1	3
+Carla_Del_Ponte	4	5
+David_Caruso	2	1
+Elizabeth_Smart	4	1
+Ahmed_Chalabi	5	2
+Bridget_Fonda	3	2
+Carolina_Kluft	3	1
+Christian_Longo	2	1
+Erika_Harold	4	Elena_Bovina	1
+Ed_Rosenthal	3	Alimzhan_Tokhtakhounov	1
+Donatella_Versace	3	Bridget_Fonda	3
+Elizabeth_Dole	3	Abdoulaye_Wade	2
+Donatella_Versace	3	Alexander_Downer	3
+Erik_Morales	1	Elizabeth_Smart	3
+Erika_Harold	5	Alejandro_Toledo	0
+Alberto_Fujimori	1	Ai_Sugiyama	5
+Donald_Rumsfeld	3	Al_Sharpton	5
+Carlos_Manuel_Pruneda	1	Emmanuelle_Beart	1
+Edward_Lu	1	Al_Pacino	2
+Carlo_Ancelotti	1	Elijah_Wood	1
+Elvis_Presley	1	Edward_Said	2
+Donatella_Versace	2	Carlos_Ruiz	1
+Carlos_Menem	5	Elena_Bovina	3
+Eric_Robert_Rudolph	1	Donald_Fehr	2
+Al_Gore	2	Carla_Del_Ponte	1
+Aleksander_Kwasniewski	4	Donald_Pettit	2
+Erik_Morales	2	Abel_Pacheco	4
+Abdullah_al-Attiyah	2	Enrique_Bolanos	5
+Elizabeth_Dole	1	Carlos_Vives	1
+Carolina_Kluft	2	Ai_Sugiyama	4
+Edwina_Currie	4	Ai_Sugiyama	2
+Donald_Rumsfeld	2	Edwin_Edwards	1
+Eduardo_Duhalde	9	Bridgette_Wilson-Sampras	3
+Adam_Sandler	3	Carolina_Kluft	1
+Abdoulaye_Wade	1	Abdoulaye_Wade	1
+David_Caruso	2	Emmanuelle_Beart	2
+Elizabeth_Dole	1	Carlos_Ruiz	1
+Eddie_Sutton	2	Adel_Al-Jubeir	3
+Edmund_Hillary	1	2
+Emma_Watson	3	5
+Akhmed_Zakayev	1	2
+Alexander_Downer	4	3
+Carlos_Menem	7	1
+Ellen_DeGeneres	2	1
+Carly_Fiorina	2	3
+Al_Sharpton	5	6
+Erika_Harold	4	5
+Ai_Sugiyama	4	1
+Elton_John	4	3
+Elton_John	6	5
+Aleksander_Kwasniewski	4	3
+Edward_Kennedy	3	1
+David_Beckham	1	6
+Carlos_Ruiz	2	1
+Aicha_El_Ouafi	2	3
+Abdullah_al-Attiyah	1	2
+Edward_Kennedy	2	1
+Aleksander_Kwasniewski	1	3
+Adam_Sandler	3	2
+Enrique_Bolanos	5	1
+Adrien_Brody	6	5
+Carlos_Moya	2	3
+Elena_Bovina	1	2
+Emma_Thompson	2	1
+Elton_John	1	7
+Alexander_Downer	1	4
+Albert_Costa	3	5
+Christina_Aguilera	3	2
+Bruce_Springsteen	2	Doris_Schroeder	3
+Eileen_Coparropa	3	Donald_Pettit	3
+Aicha_El_Ouafi	1	Akbar_Hashemi_Rafsanjani	1
+Christina_Aguilera	2	Alejandro_Toledo	4
+Elvis_Presley	1	Carlos_Ruiz	2
+Eduardo_Duhalde	3	Carlos_Ortega	2
+David_Caruso	2	Dave_Campo	3
+Ellen_DeGeneres	2	Donald_Fehr	1
+Carlos_Moya	4	Eduard_Shevardnadze	1
+David_Anderson	3	Adrien_Brody	4
+Elizabeth_Hurley	3	Edmund_Stoiber	7
+Carly_Fiorina	2	Elizabeth_Smart	5
+Elizabeth_Hurley	2	Abel_Pacheco	4
+Al_Gore	7	Ahmed_Chalabi	5
+David_Caruso	3	Elton_John	7
+Alex_Barros	2	Eric_Clapton	1
+Donatella_Versace	1	Elton_John	4
+Carlos_Manuel_Pruneda	1	Donald_Rumsfeld	6
+Al_Gore	4	Edmund_Hillary	3
+Adel_Al-Jubeir	2	Carlos_Ortega	3
+Ali_Naimi	8	Elena_Bovina	2
+Edmund_Stoiber	8	Emanuel_Ginobili	3
+David_Caruso	1	Carlos_Vives	2
+Ben_Affleck	1	Enrique_Bolanos	3
+Christina_Aguilera	4	Alimzhan_Tokhtakhounov	2
+Abel_Pacheco	2	Ahmed_Chalabi	5
+Edwina_Currie	2	Alexander_Losyukov	1
+Bashar_Assad	4	Alexander_Downer	3
+Alexandra_Stevenson	3	Al_Pacino	3
+Carlos_Moya	3	Bridgette_Wilson-Sampras	3
+Doris_Roberts	1	3
+Carly_Fiorina	1	2
+Elizabeth_Smart	2	3
+Ai_Sugiyama	2	3
+Edwin_Edwards	1	3
+Christina_Aguilera	3	1
+Adolfo_Aguilar_Zinser	2	1
+Adel_Al-Jubeir	1	2
+Carlo_Ancelotti	3	2
+Eliane_Karp	4	3
+Alexander_Losyukov	2	3
+Ed_Smart	2	3
+Bashar_Assad	4	2
+Carlos_Manuel_Pruneda	3	1
+Al_Gore	5	3
+Donatella_Versace	2	3
+Dave_Campo	3	1
+Elsa_Zylberstein	1	5
+Edwina_Currie	1	3
+Carlos_Ortega	2	1
+Abdullah_Gul	3	5
+Emmanuelle_Beart	1	3
+Adrien_Brody	5	8
+Ali_Naimi	6	3
+Elizabeth_Dole	3	4
+Christian_Longo	3	2
+Ben_Affleck	1	3
+Carlos_Moya	0	6
+Doug_Melvin	1	2
+Alec_Baldwin	1	2
+Carolina_Kluft	2	Eddie_Sutton	2
+Eric_Robert_Rudolph	2	Ai_Sugiyama	4
+Adam_Sandler	2	Edmund_Stoiber	3
+Erika_Harold	1	Edward_Said	2
+Christine_Baumgartner	3	Abdoulaye_Wade	3
+Elsa_Zylberstein	2	Ai_Sugiyama	5
+Elvis_Presley	2	Ahmed_Chalabi	5
+Adam_Sandler	2	Carlos_Moya	5
+Edward_Kennedy	2	Alexander_Downer	2
+Akhmed_Zakayev	2	Ahmed_Chalabi	3
+Carlo_Ancelotti	3	Alex_Sink	2
+Eddie_Sutton	2	Abel_Pacheco	3
+David_Beckham	5	Alec_Baldwin	4
+Abdoulaye_Wade	4	Doug_Melvin	3
+Eric_Robert_Rudolph	1	Elizabeth_Smart	1
+Eduardo_Duhalde	2	Elizabeth_Smart	3
+Adam_Sandler	3	David_Anderson	3
+Adolfo_Aguilar_Zinser	1	Adrien_Brody	2
+Aleksander_Kwasniewski	1	Elton_John	1
+Christina_Aguilera	4	Albert_Costa	4
+Ali_Naimi	6	Carla_Del_Ponte	4
+Eduardo_Duhalde	1	Eduard_Shevardnadze	5
+Alex_Barros	2	Edwin_Edwards	2
+Abdullah_al-Attiyah	1	Eric_Robert_Rudolph	2
+Ed_Smart	3	Don_Siegelman	2
+Elsa_Zylberstein	1	Alexander_Losyukov	1
+Elizabeth_Hurley	1	David_Anderson	1
+Ed_Smart	2	Al_Pacino	3
+Carlos_Moya	7	Donald_Fehr	3
+Ellen_DeGeneres	2	Abid_Hamid_Mahmud_Al-Tikriti	3
+Edward_Lu	3	6
+Carmen_Electra	2	5
+Bruce_Springsteen	3	4
+Ali_Naimi	3	5
+Abdullah_Gul	1	5
+Adel_Al-Jubeir	2	3
+Adolfo_Aguilar_Zinser	3	2
+Edmund_Stoiber	9	8
+Carlo_Ancelotti	1	2
+Eric_Clapton	1	2
+Abdullah_Gul	2	1
+Alexander_Downer	4	1
+Ben_Affleck	3	1
+Carlos_Manuel_Pruneda	2	1
+Carla_Del_Ponte	2	5
+Carmen_Electra	4	5
+Elsa_Zylberstein	2	4
+Eddie_Sutton	1	2
+Abdullah_al-Attiyah	1	3
+David_Beckham	5	1
+Ed_Smart	1	3
+Elizabeth_Smart	5	2
+Al_Sharpton	1	3
+Edwina_Currie	2	3
+Emanuel_Ginobili	1	5
+Adam_Sandler	3	1
+Edward_Lu	3	1
+Abdoulaye_Wade	3	1
+Abdullah	3	2
+Alec_Baldwin	2	3
+Ben_Affleck	1	Donald_Fehr	4
+Ali_Naimi	7	Carlos_Vives	3
+Carlos_Moya	6	Ahmed_Chalabi	5
+Elijah_Wood	1	Elijah_Wood	1
+Christian_Longo	2	Abdullah	4
+Akbar_Hashemi_Rafsanjani	2	Abdoulaye_Wade	2
+Carmen_Electra	4	Bridget_Fonda	3
+Alex_Barros	2	Abdullah	3
+Bruce_Springsteen	3	Al_Pacino	3
+Elsa_Zylberstein	5	Bridgette_Wilson-Sampras	2
+Donatella_Versace	3	Carlos_Vives	4
+Abel_Pacheco	1	Carlos_Ortega	3
+Elizabeth_Dole	1	Albert_Costa	3
+Elijah_Wood	3	Alan_Greenspan	4
+Erika_Harold	1	Alejandro_Avila	1
+Alex_Barros	1	Al_Sharpton	4
+Ellen_DeGeneres	2	Don_Siegelman	4
+Abdullah_al-Attiyah	2	Bruce_Springsteen	2
+Eddie_Sutton	1	Bruce_Springsteen	4
+Donald_Rumsfeld	6	Emmanuelle_Beart	3
+Elizabeth_Hurley	2	Carlos_Moya	1
+Doris_Roberts	2	Ahmed_Chalabi	2
+Akhmed_Zakayev	3	Alejandro_Avila	1
+Abdel_Nasser_Assidi	2	Emmanuelle_Beart	3
+Edmund_Stoiber	3	Al_Pacino	2
+Carlos_Moya	4	Carla_Del_Ponte	1
+Carolina_Kluft	1	Enrique_Bolanos	3
+Ed_Rosenthal	2	Edwin_Edwards	1
+Abel_Pacheco	3	Emanuel_Ginobili	2
+Edward_Kennedy	2	Edwin_Edwards	3
